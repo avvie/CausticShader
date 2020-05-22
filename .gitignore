@@ -9,7 +9,7 @@ Assets/AssetStoreTools*
 # Visual Studio cache directory
 .vs/
 .vscode/
-
+.idea/
 # Microsoft Analyzers
 Packages/Microsoft.NetFramework.Analyzers.2.9.8/
 Packages/Microsoft.NetCore.Analyzers.2.9.8/
