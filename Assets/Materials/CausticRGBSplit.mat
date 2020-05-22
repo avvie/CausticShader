@@ -61,7 +61,7 @@ Material:
         m_Offset: {x: 0, y: 0}
     m_Floats:
     - _BumpScale: 1
-    - _CausticsSpeed: 0.07
+    - _CausticsSpeed: 0.021
     - _CausticsSpeed1: 0.134
     - _CausticsSpeed2: 0.203
     - _Cutoff: 0.5
@@ -74,7 +74,7 @@ Material:
     - _Mode: 0
     - _OcclusionStrength: 1
     - _Parallax: 0.02
-    - _RGBSineOffset: 0.904
+    - _RGBSineOffset: 0.09
     - _SmoothnessTextureChannel: 0
     - _SpecularHighlights: 1
     - _SplitRGB: 0.135
